@@ -1,6 +1,6 @@
 import java.util.*;
 public class GradeCalculator{
-    public static void main(String args[]){                           //Task-2: Student Grade Calculator
+    public static void main(String args[]){                            //Task-2: Student Grade Calculator
       Scanner A=new Scanner(System.in);      
       System.out.print("Enter the number of Subjects: ");
       int n=A.nextInt();float total=0;
