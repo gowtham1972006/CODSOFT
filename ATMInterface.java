@@ -3,7 +3,7 @@ import java.util.Scanner;
 class BankAccount {
     double balance;
 
-    public BankAccount(double initialBalance) {                 // Task-3: ATM Interface
+    public BankAccount(double initialBalance) {                  // Task-3: ATM Interface
         this.balance = initialBalance;
     }
 
