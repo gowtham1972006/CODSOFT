@@ -1,6 +1,6 @@
 import java.util.*;
 class NumberGame{
-    public static void main(String args[]){                     //Task-1 Number Game
+    public static void main(String args[]){                      //Task-1 Number Game
         int N=(int)(Math.random()*(100))+1;
         Scanner A=new Scanner(System.in);
         int c=0,score=0;
